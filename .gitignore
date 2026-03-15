@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+
+# IDE / tooling
+compile_commands.json
+.cache/
+
+# OS
+.DS_Store
